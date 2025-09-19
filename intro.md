@@ -1,4 +1,4 @@
-# AI4Psycholgoy Training 2025
+# AI4Psychology Training 2025
 
 In diesem KI-Training für Psycholog:innen werden wir verschiedene KI-Systeme, wie beispielsweise ChatGPT, ausprobieren und lernen, wie man solche Systeme richtig benutzt. Wir
 
