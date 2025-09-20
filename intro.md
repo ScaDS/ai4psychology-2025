@@ -13,8 +13,8 @@ In diesem KI-Training für Psycholog:innen werden wir verschiedene KI-Systeme, w
 
 10:15 - 11:00 Übungen
 
-* [Text-Generierung](session1/rede-generierung.md)
-* [Text-Generierung](session1/antrag_prompt.md)
+* [Rede-Generierung](session1/rede-generierung.md)
+* [Generierung von Dokumenten](session1/antrag_prompt.md)
 * [Deep Research](session1/deepresearch.md)
 
 11:00 - 11:20 Fortgeschrittene Nutzung
