@@ -10,15 +10,15 @@ parts:
   - caption: Grundlagen Generativer KI
     chapters:
     - url: https://github.com/ScaDS/ai4psychology-2025/blob/main/session1/KIKT1_Intro.pdf?raw=True
-      title: Einführung (Folien)
+      title: Folien
     - file: session1/rede-generierung.md
     - file: session1/antrag_prompt.md
     - file: session1/deepresearch.md
 
-  - caption: Datenanalyse mit Generativer KI
+  - caption: Functionsweise von KI und forgeschrittene Nutzung
     chapters:
     - url: https://github.com/ScaDS/ai4psychology-2025/blob/main/session2/KIKT2_Advanced.pdf?raw=True
-      title:  (Folien)
+      title: Folien
     - file: session2/lehr_materialien_generieren.md
     - file: session2/chatbot.md
     - file: session2/dokumente_durchsuchen.md
