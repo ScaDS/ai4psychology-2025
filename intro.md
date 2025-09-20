@@ -4,7 +4,7 @@ In diesem KI-Training für Psycholog:innen werden wir verschiedene KI-Systeme, w
 
 ## Programm
 
-9:30 - 10:15 [Einführung und Grundlagen](https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session1/KIKT1_Intro.pdf?raw=True)
+9:30 - 10:15 [Einführung und Grundlagen](https://github.com/ScaDS/ai4psychology-2025/blob/main/session1/KIKT1_Intro.pdf?raw=True)
 
 * Einführung in Künstliche Intelligenz, KI-Systeme und Sprachmodelle
 * Anwendungsgebiete und Grenzen von KI bei der Text-Generierung
@@ -17,7 +17,7 @@ In diesem KI-Training für Psycholog:innen werden wir verschiedene KI-Systeme, w
 * [Generierung von Dokumenten](session1/antrag_prompt.md)
 * [Deep Research](session1/deepresearch.md)
 
-11:00 - 11:20 Fortgeschrittene Nutzung
+11:00 - 11:20 [Fortgeschrittene Nutzung](https://github.com/ScaDS/ai4psychology-2025/blob/main/session2/KIKT2_Advanced.pdf?raw=True)
 
 * Wissensdestillation
 * Retrieval-Augmented Generation
@@ -28,13 +28,16 @@ In diesem KI-Training für Psycholog:innen werden wir verschiedene KI-Systeme, w
 * [KI-gestützte Beratung / Implementierung eines eigenen ChatBots](session2/chatbot.md)
 * [Durchsuchen von Dokumenten](dokumente_durchsuchen.md)
 
-11:50 - 12:30 Verantwortungsvolle Nutzung von Generativer KI und Rechtlicher Rahmen
+11:50 - 12:30 [Verantwortungsvolle Nutzung von Generativer KI und Rechtlicher Rahmen](https://github.com/ScaDS/ai4psychology-2025/blob/main/session3/KIKT3_ResponsibleAI.pdf?raw=True)
 
 * Datenschutzkonforme Nutzung
 * Urheberrecht
 * EU AI Act
 
-12:30 - 13:00 Diskussion und freies Experimentieren, Feedbackrunde
+12:30 - 13:00 Übung, Diskussion und freies Experimentieren, Feedbackrunde
+
+* [KI-Detektoren](session3/ki-detektoren.md)
+* [Bias-Detektion](session3/bias_detektion.md)
 
 ## Trainer
 
