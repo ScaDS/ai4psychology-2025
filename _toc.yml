@@ -12,25 +12,24 @@ parts:
     - url: https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session1/KIKT1_Intro.pdf?raw=True
       title: Einführung (Folien)
     - file: session1/rede-generierung.md
+    - file: session1/antrag_prompt.md
     - file: session1/deepresearch.md
-    - file: session1/chatbot.md
-    - file: session1/destillation.md
-    - file: session1/bildgenerierung.md
 
   - caption: Datenanalyse mit Generativer KI
     chapters:
     - url: https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session2/KIKT2_Advanced.pdf?raw=True
       title: Funktiosweise + Datenanalyse (Folien)
-    - file: session2/simuliertes_fis.md
-    - file: session2/proposal_durchsuchen.md
-    - file: session2/ai_data_analysis_.md
-    - file: session2/bias_detektion.md
+    - file: session2/dokumente_durchsuchen.md
+    - file: session1/chatbot.md
+    - file: session1/destillation.md
+    - file: session2/dokumente_durchsuchen.md
 
   - caption: Verantwortungsvolle Nutzung von Generativer KI und Rechtlicher Rahmen
     chapters:
     - url: https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session3/KIKT3_ResponsibleAI.pdf?raw=True
       title: Folien
     - file: session3/ki-detektoren.mdd
+    - file: session3/bias_detektion.md
 
   - caption: Diskussion & Ausblick
     chapters:
