@@ -15,7 +15,7 @@ In diesem KI-Training für Psycholog:innen werden wir verschiedene KI-Systeme, w
 
 * [Text-Generierung](session1/rede-generierung.md)
 * [Text-Generierung](session1/antrag_prompt.md)
-* Deep Research
+* [Deep Research](session1/deepresearch.md)
 
 11:00 - 11:20 Fortgeschrittene Nutzung
 
@@ -24,9 +24,9 @@ In diesem KI-Training für Psycholog:innen werden wir verschiedene KI-Systeme, w
 
 11:20 - 11:50 Übungen
 
-* Wissensdestillation
-* KI-gestützte Beratung / Implementierung eines eigenen ChatBots
-* Durchsuchen von Dokumenten
+* [Generieren von Lehrmaterialien](session2/lehr_materialien_generieren.md)
+* [KI-gestützte Beratung / Implementierung eines eigenen ChatBots](session2/chatbot.md)
+* [Durchsuchen von Dokumenten](dokumente_durchsuchen.md)
 
 11:50 - 12:30 Verantwortungsvolle Nutzung von Generativer KI und Rechtlicher Rahmen
 
