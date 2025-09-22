@@ -32,7 +32,7 @@ parts:
 
   - caption: Weitere Informationen
     chapters:
-    - url: https://doi.org/10.5281/zenodo.15450055
+    - url: https://doi.org/10.5281/zenodo.17174433
       title: Folien als PPTx (Zenodo)
     - url: https://creativecommons.org/licenses/by/4.0/deed.en
       title: "Lizenz: CC-BY 4.0"
