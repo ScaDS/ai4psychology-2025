@@ -5,7 +5,7 @@
 
 #######################################################################################
 # Book settings
-title                       : KI-Kompetenz Training @ ScaDS.AI, May 2025
+title                       : AI4PSychology KI-Kompetenz Training @ ScaDS.AI, September 2025
 author                      : Robert Haase, ScaDS.AI, Uni Leipzig
 copyright                   : "2025"
 logo                        : scads_logo.png
@@ -17,7 +17,7 @@ execute:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/ScaDS/ki-kompetenz-training-2025
+  url: https://github.com/ScaDS/ai4psychology-2025
   path_to_book: .  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
