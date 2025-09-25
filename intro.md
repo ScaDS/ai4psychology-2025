@@ -16,6 +16,7 @@ In diesem KI-Training für Psycholog:innen werden wir verschiedene KI-Systeme, w
 * [Rede-Generierung](session1/rede-generierung.md)
 * [Generierung von Dokumenten](session1/antrag_prompt.md)
 * [Deep Research](session1/deepresearch.md)
+* [Video Overviews](session1/notebooklm.md)
 
 11:00 - 11:20 [Fortgeschrittene Nutzung](https://github.com/ScaDS/ai4psychology-2025/blob/main/session2/KIKT2_Advanced.pdf?raw=True)
 
